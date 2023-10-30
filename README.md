@@ -26,4 +26,8 @@ après chaque commande git.
 
 Auteurs :
  - Fabien Rozar
+<<<<<<< HEAD
  - Guillyann Ferrere
+=======
+ - Florian Ah-Yane
+>>>>>>> origin/Florian_Ah-Yane
